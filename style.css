@@ -1,0 +1,33 @@
+@font-face {
+    font-family: daddy;
+    src: url(DaddyinspaceDEMO.otf);
+  }
+
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+body{
+    /* background-color: black; */
+    background-color: rgb(218, 25, 51);
+    height: 1000px;
+}
+
+/* color: rgb(218, 25, 51); */
+h1{
+    font-family: 'daddy';
+    /* color: rgb(218, 25, 51); */
+    color: black;
+    padding: 20px 20px;
+    font-weight: normal;
+    /* font-size: 34px; */
+    font-size: 9vw;
+}
+.line{
+    background-color: white;
+    width: 80%;
+    height: 4px;
+    border-radius: 4px;
+    margin: auto auto
+}
